@@ -9,4 +9,4 @@ else:
     for i in range(1, n+1):
         sum += i
 
-print (f"Сумма целых числе от 1 до {n} равна {sum}")
+print (f"Сумма целых чисел от 1 до {n} равна {sum}")
